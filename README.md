@@ -19,17 +19,12 @@ N/A
 
 Link to page https://github.com/etranchell/module1challenge-main/settings/pages
 
+Screenshot showing heading and page layout
+![image](https://user-images.githubusercontent.com/123092979/217985890-e20e6c51-16c7-419b-9d48-0da2f2bdc024.png)
+Screenshot showing body 
 ![image](https://user-images.githubusercontent.com/123092979/217986188-497a937b-4c97-4f04-a536-1af80a16d1f2.png)
 
-![image](https://user-images.githubusercontent.com/123092979/217985890-e20e6c51-16c7-419b-9d48-0da2f2bdc024.png)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
