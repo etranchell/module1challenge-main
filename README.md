@@ -17,7 +17,7 @@ N/A
 ## Usage
 
 
-Link to page https://github.com/etranchell/module1challenge-main/settings/pages
+Link to page https://etranchell.github.io/module1challenge-main/
 
 Screenshot showing heading and page layout
 ![image](https://user-images.githubusercontent.com/123092979/217985890-e20e6c51-16c7-419b-9d48-0da2f2bdc024.png)
